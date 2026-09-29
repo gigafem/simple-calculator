@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Milyutina_app</string>
+    <string name="author">Автор: Милютина А. Д.</string>
+    <string name="group">Группа: 406-ИС-23</string>
+    <string name="calculator_title">Калькулятор</string>
+    <string name="first_number">Первое число</string>
+    <string name="second_number">Второе число</string>
+    <string name="add">+</string>
+    <string name="subtract">−</string>
+    <string name="result_label">Результат:</string>
+    <string name="result">Результат: %1$d</string>
+    <string name="input_error">Введите два целых числа</string>
+    <string name="time_label">Time:</string>
+    <string name="date_label">Date:</string>
+    <string name="time">Time: %1$s</string>
+    <string name="date">Date: %1$s</string>
+</resources>
